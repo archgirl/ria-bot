@@ -1,0 +1,22 @@
+{
+  "name": "ria-bot",
+  "version": "1.0.0",
+  "description": "This is RIA: remote intelligence agent, a chat bot for all your streaming needs.",
+  "main": "._app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/archgirl/ria-bot.git"
+  },
+  "author": "Melanie E Magdalena",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/archgirl/ria-bot/issues"
+  },
+  "homepage": "https://github.com/archgirl/ria-bot#readme",
+  "dependencies": {
+    "tmi.js": "0.0.29"
+  }
+}
