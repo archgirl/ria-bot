@@ -1,0 +1,4 @@
+This project would not have been possible without:
+
+- Dev Coffee's Node.js Twitch TV Chat Bot tutorial (youtu.be/K6N9dSMb7sM)
+- TMI.js, a JavaScript library for Twitch Messaging Interface (tmijs.org)
